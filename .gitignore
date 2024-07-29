@@ -1,1 +1,5 @@
 ./output
+teste.py
+*.exe
+*.bin
+*.txt

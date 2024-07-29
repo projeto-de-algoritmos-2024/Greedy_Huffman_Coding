@@ -82,8 +82,15 @@ void decode_file(const char *input_filename, const char *output_filename) {
     fclose(output_file);
 }
 
-int main() {
-    decode_file("compressed.bin", "decompressed.txt");
+int main(int argc, char *argv[]) {
+    if (argc < 2) {
+        fprintf(stderr, "Usage: %s <input file>\n", argv[0]);
+        return 1;
+    }
+
+    char *input_filename = argv[1];
+
+    decode_file(input_filename, "decompressed.txt");
 
     return 0;
 }

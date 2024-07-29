@@ -42,3 +42,4 @@ O objetivo deste projeto é desenvolver um sistema de compressão e descompress�
    ```sh
    ./decompress```
 
+### Como Usar
