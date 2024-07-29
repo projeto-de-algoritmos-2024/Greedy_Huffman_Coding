@@ -5,3 +5,25 @@ teste.py
 *.txt
 *.tree
 !input.txt
+
+# Arquivos objeto
+*.o
+
+# Executáveis
+*.out
+*.exe
+
+# Arquivos temporários de compilação
+*.gch
+*.gcno
+*.gcda
+*.gcov
+
+# Outros arquivos de compilação comuns
+*.a
+*.so
+*.dll
+*.dylib
+
+# Diretório de build (caso utilize um diretório específico para builds)
+build/
