@@ -4,3 +4,4 @@ teste.py
 *.bin
 *.txt
 *.tree
+!input.txt
