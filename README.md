@@ -29,6 +29,7 @@ Este projeto demonstra a aplicação prática de algoritmos de compressão, dest
 - Apenas arquivos com extensão `.txt` são suportados para compressão.
 - Apenas arquivos com extensão `.bin` são suportados para descompressão.
 - Os nomes dos arquivos devem ser fornecidos com as suas respectivas extensões.
+- O programa está restrito à codificação de caracteres pertencentes apenas ao conjunto ASCII.
 
 ### Screenshots
 <center>
