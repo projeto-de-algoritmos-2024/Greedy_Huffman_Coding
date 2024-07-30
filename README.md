@@ -87,3 +87,6 @@ Aqui está a versão melhorada dos passos 1 e 2:
     ./decompress input.txt_compressed.bin
     ```
     - Isso irá gerar um arquivo descomprimido com o conteúdo original com o nome `decompressed.txt`.
+
+## Vídeo Apresentação
+[Assista ao Vídeo no Youtube](https://youtu.be/naIQpKC1yIE)
